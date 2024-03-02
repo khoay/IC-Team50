@@ -14,4 +14,4 @@ Can we use historical data and see how the data has changed and remained the sam
 
 Can insight be derived to get a better understanding of which nutrients or components should be analyzed and which ones remain constant?
 
-#### [Website](https://sriketk.github.io/Info_challenge/about.html) 
+#### [Website](https://sriketk.github.io/Info_challenge/) 
